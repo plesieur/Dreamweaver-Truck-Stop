@@ -1,4 +1,9 @@
 .header {
+	color: saddlebrown;
+	background-color: sandybrown;
+	border-style: solid;
+	border-color: saddlebrown;
+	border-width: 3px;
 }
 
 .content {
